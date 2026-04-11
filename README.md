@@ -44,8 +44,19 @@ classification, reporting, analytics, and eco-reward systems.
 
 ## 📂 Project Structure
 
-CleanTech-AI/ ├── backend/ ├── frontend/ ├── assets/ ├──
-requirements.txt └── README.md
+CleanTech-AI/
+│
+├── backend/
+│   ├── main.py
+│   ├── routes/
+│   ├── models/
+│   └── utils/
+│
+├── frontend/
+│   └── app.py
+│____ Data/
+|       |__dataset.csv
+└── README.md
 
 ------------------------------------------------------------------------
 
