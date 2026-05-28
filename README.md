@@ -127,10 +127,7 @@ source venv/bin/activate
 
 ---
 
-## 3️⃣ Install Dependencies
 
-```bash id="tk6v1r"
-pip install -r requirements.txt
 ```
 
 ---
