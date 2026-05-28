@@ -1,0 +1,10 @@
+path: yolo_dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: hazardous
+  1: non_recyclable
+  2: organic
+  3: recyclable

@@ -1,0 +1,17 @@
+# Virtual Environment
+yolo_gpu/
+venv/
+env/
+
+# Python cache
+__pycache__/
+
+# Datasets
+waste dataset/
+waste-classified/
+yolo_dataset/
+
+# Model files
+*.pt
+*.pth
+*.h5
