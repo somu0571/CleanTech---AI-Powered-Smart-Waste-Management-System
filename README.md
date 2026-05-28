@@ -213,7 +213,7 @@ Developed during the **Innovate Bharat Hackathon 2026**.
 
 * **Avani Shrivastava**
 * **Gaurav Singh**
-* **Somsubhra Chatterjeee**
+* **Somsubhra Chatterjee**
 
 Built  for smarter, cleaner, and sustainable cities.
 
