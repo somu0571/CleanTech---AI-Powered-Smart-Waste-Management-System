@@ -222,7 +222,7 @@ Developed during the **Innovate Bharat Hackathon 2026**.
 * **Gaurav Singh**
 * **Somsubhra Chatterjeee**
 
-Built with ❤️ for smarter, cleaner, and sustainable cities.
+Built  for smarter, cleaner, and sustainable cities.
 
 ---
 
