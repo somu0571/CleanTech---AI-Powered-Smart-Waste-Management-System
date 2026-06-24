@@ -1,0 +1,30 @@
+# Core backend
+fastapi
+uvicorn[standard]
+
+# Authentication
+python-jose
+passlib[bcrypt]
+
+# Database
+sqlalchemy
+databases
+psycopg2-binary   # if using PostgreSQL
+sqlite3           # optional, usually built-in
+
+# Frontend
+streamlit
+plotly
+
+# AI/ML
+opencv-python
+torch
+torchvision
+ultralytics       # YOLOv8 package
+
+# Utilities
+pandas
+numpy
+scikit-learn
+requests
+python-multipart  # for file uploads
